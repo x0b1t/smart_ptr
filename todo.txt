@@ -1,4 +1,2 @@
 TODO:
-0. добавить систему логирования ( log_wrapper + boost.log )
-1. добавить конфигурацию из файла ( boost.program_options )
-2.
+

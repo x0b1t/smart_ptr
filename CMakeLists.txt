@@ -59,10 +59,5 @@ target_link_libraries( ${App_bin}
 
 # --------------------------------------------------------------------
 # install
-install( FILES
-    ${CMAKE_BINARY_DIR}/${App_bin}
-    ${CMAKE_SOURCE_DIR}/data/common.conf
-    ${CMAKE_SOURCE_DIR}/data/user.conf
-    DESTINATION ${CMAKE_SOURCE_DIR}/bin
-)
+#TODO:
 
